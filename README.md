@@ -52,6 +52,12 @@ remixd -s ./ --remix-ide https://remix.ethereum.org
 Step 5: Now, open a new terminal in VS Code for the project directory and start the Hardhat node using the following command:
 npx hardhat node
 
+Step 6: Create your contract on Solidity
+
+Step 7: Compile your Contract
+
+Step 8: Deploy Your Contract
+
 
 ## Authors
 Nikhil Agarwal
